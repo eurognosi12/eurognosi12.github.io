@@ -37,7 +37,7 @@ add a `CNAME` record for `www` that points to `<username>.github.io`. Turn on **
 
 ## Common edits
 
-- **News on the home page**: replace `images/news-logopaignia.jpg` or `images/holidays-2026-2027.jpg`
+- **News on the home page**: replace `images/cambridge-platinum-award.jpg` or `images/holidays-2026-2027.jpg`
   with a new image of the same name, or change the `src` in `index.html`.
 - **Schedule**: edit the table rows in `schedule.html`.
 - **Gallery**: add `images/space-7.jpg` and copy one `<a ...><img ...></a>` line in `our-space.html`.
